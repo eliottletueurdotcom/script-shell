@@ -7,4 +7,3 @@ read -p 'Entrez votre nom: ' -n 15 nom
 read -p 'Entrez un mot de passe:  ' -s pass
 echo -e "Hello $nom, bienvenue dans le createur de pseudo sympa\nVeuillez suivre la procedure."
 read -p 'Ecris le nom de ta plus grande passion: ' passion
-
